@@ -1,0 +1,45 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Data files
+data/
+*.csv
+*.jpg
+*.png
+*.jpeg
+*.bmp
+*.npy
+*.npz
+
+# ---- IDE / Editor ----
+# PyCharm / IntelliJ
+.idea/
+
+# VSCode
+.vscode/
+
+# VS / C# Solution files (listed in your folder)
+*.sln
+*.pyproj
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Build / dist ----
+build/
+dist/
+*.egg-info/
+
+# ---- Logs ----
+*.log
+logs/
